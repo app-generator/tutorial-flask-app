@@ -41,7 +41,7 @@ Flask is written in [Python](https://www.python.org/) and it does not require pa
 
 :point_right: To code a Flask application we need some tools properly set up in our workstation. Here is the recommended list: 
 
-- [Python v3](https://www.python.org/downloads/) 
+- [Python v3](https://www.python.org/downloads/) - the language used by Flask
 - A (free) editor: [VsCode](https://code.visualstudio.com/), [Sublime](https://www.sublimetext.com/), [Atom](https://atom.io/), [Notepad++](https://notepad-plus-plus.org/)
 
 <br />
