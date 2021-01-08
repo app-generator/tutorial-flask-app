@@ -85,7 +85,7 @@ def hello():
     return f'My first Flask APP!'
 ```
 
-This simple code snippet ( also saved [here](./hello.p) ) does the following:
+This simple code snippet ( also saved [here](./hello.py) ) does the following:
 
 - Import `Flask`, the library that we've installed in the previous step
 - `app` object is constructed by `Flask`. At this point, we can use all features provided by **Flask**
