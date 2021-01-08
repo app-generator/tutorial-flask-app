@@ -125,7 +125,7 @@ By default `Flask` will start the application on address 'localhost:5000'. If we
 
 :point_right: During this tutorial we've learned a few basic things:
 
-- What is Flask anf how to install it
+- What is Flask and how to install it
 - We've code a super simple app
 - We've seen the application running in the browser
 
