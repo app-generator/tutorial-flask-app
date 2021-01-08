@@ -26,8 +26,8 @@ Flask is written in [Python](https://www.python.org/) and it does not require pa
 
 > Useful Flask Resources
 
-- [Flask](https://palletsprojects.com/p/flask/)
-- [Flask Docs](https://flask.palletsprojects.com/en/1.1.x/)
+- [Flask](https://palletsprojects.com/p/flask/) - the official website
+- [Flask Docs](https://flask.palletsprojects.com/en/1.1.x/) - learn what Flask has to offer in detail 
 - [Flask Tutorial](https://github.com/app-generator/tutorial-flask) - content provided by experienced developers
 
 
