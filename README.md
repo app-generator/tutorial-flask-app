@@ -14,7 +14,7 @@
 
 <br />
 
-> Questions or spot a problem? please open a new [issue](https://github.com/app-generator/tutorial-flask-app/issues/new) to get answer.
+> Questions/Spot a problem? please open a new [issue](https://github.com/app-generator/tutorial-flask-app/issues/new).
 
 <br />
 
