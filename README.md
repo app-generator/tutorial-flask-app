@@ -62,7 +62,7 @@ If the above command returns an error please double check the Python installatio
 Flask is basicaly a Python package and we can install it with ease via a tool shipped by Python: [PIP](https://pypi.org/project/pip/).
 
 ```bash
-$ $ pip install Flask
+$ pip install Flask
 ```
 
 <br />
