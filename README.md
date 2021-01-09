@@ -102,7 +102,15 @@ This simple code snippet ( also saved [here](./hello.py) ) does the following:
 :point_right: Flask being such a nice framework, comes with a simple server to help us check the code without being forced to install 3rd party tools. To use it and see our minimal app running in the browser, a variable must be exported in the `environment` that informs `Flask` the name of the file:
 
 ```bash
+$ # Set the FLASK_APP environment variable
+$ # Unix/Mac 
 $ export FLASK_APP=run.py
+$
+$ # Windows OS 
+$ set FLASK_APP=run.py
+$ 
+$ # Windows OS - Powershell
+$ $env:FLASK_APP = ".\run.py"
 ```
 
 Once we have this variable we can call `Flask`:
