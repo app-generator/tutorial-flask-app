@@ -104,13 +104,13 @@ This simple code snippet ( also saved [here](./hello.py) ) does the following:
 ```bash
 $ # Set the FLASK_APP environment variable
 $ # Unix/Mac 
-$ export FLASK_APP=run.py
+$ export FLASK_APP=hello.py
 $
 $ # Windows OS 
-$ set FLASK_APP=run.py
+$ set FLASK_APP=hello.py
 $ 
 $ # Windows OS - Powershell
-$ $env:FLASK_APP = ".\run.py"
+$ $env:FLASK_APP = ".\hello.py"
 ```
 
 Once we have this variable we can call `Flask`:
